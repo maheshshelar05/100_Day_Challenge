@@ -10,7 +10,7 @@ class PairSum
             for(int j = i + 1; j < arr.length; j++)
             {
                 if(arr[i] + arr[j] == target)
-                {Print all valid pairs matching the target sum
+                {
                     System.out.println(arr[i] + " + " + arr[j] + " = " + target);
                 }
             }
