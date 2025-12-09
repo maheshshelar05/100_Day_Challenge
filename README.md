@@ -8,7 +8,7 @@ This challenge is still ongoing — more programs will be added daily! 🔥
 
 Basic to advanced Java programs
 
-Daily practice problems
+Daily practice problems (⭐ I solve more than one problem every day)
 
 Patterns, arrays, loops, OOP concepts & more
 
