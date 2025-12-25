@@ -31,7 +31,7 @@ class CountWordOccurrence
             if(j == sub.length())
             {
                 count++;
-                i = i + sub.length();   // move ahead after match
+                i = i + sub.length();  
             }
             else
             {
