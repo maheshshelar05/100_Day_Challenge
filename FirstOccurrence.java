@@ -1,6 +1,6 @@
 import java.util.*;
 
-class FirstOccurrenceV2
+class FirstOccurrence
 {
     public static void main(String args[])
     {
